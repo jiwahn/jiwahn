@@ -1,0 +1,26 @@
+
+<!--
+**ilp-sys/ilp-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+-->
+<details>
+
+- Comfortable with C/C++ and Python
+- Currently picking up Go and Rust
+- Background in systems programming, expanding into cloud-native technologies
+- It's super effective!
+
+<img width="661" height="335" alt="jiwahn_README md" src="https://github.com/user-attachments/assets/c515d190-7cdc-4e57-9fd1-fc287c515e97" />
+
+</details>
